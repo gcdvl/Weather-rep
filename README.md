@@ -53,5 +53,4 @@ Add your deployed link here.
 
 Example:
 
-```text
-https://your-username.github.io/weather-app/
+https://gcdvl.github.io/Weather-rep/
