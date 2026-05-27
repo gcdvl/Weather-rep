@@ -49,8 +49,4 @@ This project helped me practice:
 
 ## Live Demo
 
-Add your deployed link here.
-
-Example:
-
 https://gcdvl.github.io/Weather-rep/
